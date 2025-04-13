@@ -9,7 +9,6 @@ FastCart is a fully responsive admin dashboard tailored for managing e-commerce 
 ### 🔹 Frontend
 - React.js (v19.1.0)
 - React Router DOM (v7.5.0)
-- Axios (v1.8.4)
 - React Icons (v5.5.0)
 - js-cookie (v3.0.5)
 
@@ -23,7 +22,7 @@ FastCart is a fully responsive admin dashboard tailored for managing e-commerce 
 - Multer + multer-storage-cloudinary
 - CORS
 - dotenv
-
+  
 ---
 
 ## ✨ Features
